@@ -1,2 +1,3 @@
 # PYTHON
 Learnings
+Revision pourpose
